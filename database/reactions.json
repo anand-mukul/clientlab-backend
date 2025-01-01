@@ -1,0 +1,25 @@
+[
+  {
+    "reactants": [
+      { "name": "CuSO4", "quantity": 3 },
+      { "name": "FeSO4", "quantity": 2 }
+    ],
+    "products": [
+      { "name": "Cu", "color": "#B87333" },
+      { "name": "Fe2(SO4)3", "color": "#228B22" }
+    ],
+    "equation": "3CuSO4 + 2FeSO4 → 3Cu + Fe2(SO4)3"
+  },
+  {
+    "reactants": [
+      { "name": "K2Cr2O7", "quantity": 1 },
+      { "name": "H2SO4", "quantity": 4 }
+    ],
+    "products": [
+      { "name": "Cr2(SO4)3", "color": "#800080" },
+      { "name": "K2SO4", "color": "#FFFFFF" },
+      { "name": "H2O", "color": "#FFFFFF" }
+    ],
+    "equation": "K2Cr2O7 + 4H2SO4 → Cr2(SO4)3 + K2SO4 + 4H2O"
+  }
+]

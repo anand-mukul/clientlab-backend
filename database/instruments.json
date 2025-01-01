@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Test Tube",
+    "icon": "https://utfs.io/f/070bYZHQfT4ZrLczrlMpETQK8ndBMWwDUCoXvbu5mOA2FRsq",
+    "description": "A small cylindrical container used in laboratory experiments."
+  },
+  {
+    "name": "Beaker",
+    "icon": "https://utfs.io/f/070bYZHQfT4ZhNCvWdBo4eDNOhIt3npJKMBZXRdy51cY0LuV",
+    "description": "A simple container for stirring, mixing, and heating liquids."
+  }
+]

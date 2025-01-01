@@ -1,0 +1,20 @@
+[
+  {
+    "name": "MnSO4",
+    "formula": "MnSO4",
+    "color": "#FFC0CB",
+    "icon": "https://utfs.io/f/070bYZHQfT4ZKJNkkj68cnmU9Dds6ZXhHMzj4tluaVWf3kCx"
+  },
+  {
+    "name": "FeSO4",
+    "formula": "FeSO4",
+    "color": "#228B22",
+    "icon": "https://utfs.io/f/070bYZHQfT4ZfmjN6uYZrmuoltv7KDjkqwsMCT0S4O8bJXEB"
+  },
+  {
+    "name": "Cr2(SO4)3",
+    "formula": "Cr2(SO4)3",
+    "color": "#800080",
+    "icon": "https://utfs.io/f/070bYZHQfT4ZFdtSdsWfHpDUIjJXcYKRnhoz5gq1xB0tuLQV"
+  }
+]
